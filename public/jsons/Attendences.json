@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "Firdavs Salohiddiov",
+    "attentdence": [
+      { "id": 1, "title": "bo'sh" },
+      { "id": 2, "title": "keldi" },
+      { "id": 3, "title": "kelmadi" },
+      { "id": 4, "title": "sababli" }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Mustafo Murodov",
+    "attentdence": [
+      { "id": 1, "title": "bo'sh" },
+      { "id": 2, "title": "keldi" },
+      { "id": 3, "title": "kelmadi" },
+      { "id": 4, "title": "sababli" }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Muhammad Ayubov",
+    "attentdence": [
+      { "id": 1, "title": "bo'sh" },
+      { "id": 2, "title": "keldi" },
+      { "id": 3, "title": "kelmadi" },
+      { "id": 4, "title": "sababli" }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Imron Olimov",
+    "attentdence": [
+      { "id": 1, "title": "bo'sh" },
+      { "id": 2, "title": "keldi" },
+      { "id": 3, "title": "kelmadi" },
+      { "id": 4, "title": "sababli" }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Zubayr Ahmadov",
+    "attentdence": [
+      { "id": 1, "title": "bo'sh" },
+      { "id": 2, "title": "keldi" },
+      { "id": 3, "title": "kelmadi" },
+      { "id": 4, "title": "sababli" }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Umar Sharipov",
+    "attentdence": [
+      { "id": 1, "title": "bo'sh" },
+      { "id": 2, "title": "keldi" },
+      { "id": 3, "title": "kelmadi" },
+      { "id": 4, "title": "sababli" }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Ali Berdiyev",
+    "attentdence": [
+      { "id": 1, "title": "bo'sh" },
+      { "id": 2, "title": "keldi" },
+      { "id": 3, "title": "kelmadi" },
+      { "id": 4, "title": "sababli" }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Abdulloh Masudov",
+    "attentdence": [
+      { "id": 1, "title": "bo'sh" },
+      { "id": 2, "title": "keldi" },
+      { "id": 3, "title": "kelmadi" },
+      { "id": 4, "title": "sababli" }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Muhammadyuduf Karimov",
+    "attentdence": [
+      { "id": 1, "title": "bo'sh" },
+      { "id": 2, "title": "keldi" },
+      { "id": 3, "title": "kelmadi" },
+      { "id": 4, "title": "sababli" }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Muhammadali Sultonov",
+    "attentdence": [
+      { "id": 1, "title": "bo'sh" },
+      { "id": 2, "title": "keldi" },
+      { "id": 3, "title": "kelmadi" },
+      { "id": 4, "title": "sababli" }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Abubakr Shamsiddinov",
+    "attentdence": [
+      { "id": 1, "title": "bo'sh" },
+      { "id": 2, "title": "keldi" },
+      { "id": 3, "title": "kelmadi" },
+      { "id": 4, "title": "sababli" }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Ibrohim Mavlonov",
+    "attentdence": [
+      { "id": 1, "title": "bo'sh" },
+      { "id": 2, "title": "keldi" },
+      { "id": 3, "title": "kelmadi" },
+      { "id": 4, "title": "sababli" }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Muhammadamin Boriyev",
+    "attentdence": [
+      { "id": 1, "title": "bo'sh" },
+      { "id": 2, "title": "keldi" },
+      { "id": 3, "title": "kelmadi" },
+      { "id": 4, "title": "sababli" }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Bilol Anvarov",
+    "attentdence": [
+      { "id": 1, "title": "bo'sh" },
+      { "id": 2, "title": "keldi" },
+      { "id": 3, "title": "kelmadi" },
+      { "id": 4, "title": "sababli" }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Usmon Feruzov",
+    "attentdence": [
+      { "id": 1, "title": "bo'sh" },
+      { "id": 2, "title": "keldi" },
+      { "id": 3, "title": "kelmadi" },
+      { "id": 4, "title": "sababli" }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Aziz Bahtiyorov",
+    "attentdence": [
+      { "id": 1, "title": "bo'sh" },
+      { "id": 2, "title": "keldi" },
+      { "id": 3, "title": "kelmadi" },
+      { "id": 4, "title": "sababli" }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Kamron Jalilov",
+    "attentdence": [
+      { "id": 1, "title": "bo'sh" },
+      { "id": 2, "title": "keldi" },
+      { "id": 3, "title": "kelmadi" },
+      { "id": 4, "title": "sababli" }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Islom Shuhratov",
+    "attentdence": [
+      { "id": 1, "title": "bo'sh" },
+      { "id": 2, "title": "keldi" },
+      { "id": 3, "title": "kelmadi" },
+      { "id": 4, "title": "sababli" }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Shohrux Sanjarov",
+    "attentdence": [
+      { "id": 1, "title": "bo'sh" },
+      { "id": 2, "title": "keldi" },
+      { "id": 3, "title": "kelmadi" },
+      { "id": 4, "title": "sababli" }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Amir Elmurodov",
+    "attentdence": [
+      { "id": 1, "title": "bo'sh" },
+      { "id": 2, "title": "keldi" },
+      { "id": 3, "title": "kelmadi" },
+      { "id": 4, "title": "sababli" }
+    ]
+  }
+]

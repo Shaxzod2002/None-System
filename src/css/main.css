@@ -1,0 +1,22 @@
+.menu a.active,
+nav a.active {
+  background-color: black !important;
+  color: white;
+}
+
+nav .nav-link {
+  padding: 10px 20px;
+  border-radius: 10px;
+  -webkit-transition-duration: 0.3s;
+          transition-duration: 0.3s;
+}
+
+nav .nav-link:hover {
+  background: rgb(107, 107, 107);
+  color: #fff;
+}
+
+nav .nav-link.active {
+  background: #000;
+  color: #fff;
+}
